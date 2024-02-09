@@ -164,9 +164,4 @@
             color: orange;
             font-size: 20px;
         }
-        header, nav, footer, section, aside, article 
-        {
-            width: 100%;
-            margin: 0;
-            padding: 0;
-        }
+        
