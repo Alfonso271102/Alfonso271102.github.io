@@ -201,3 +201,18 @@ body
             margin-top: -120px;
             height: 150px;
         }
+        .general13
+        {
+            width: 100vw;
+            height: 70vh;
+        }
+        @media (max-width: 700px)
+        {
+            .texto
+            {
+                font-size: 20px;
+                padding-top: 40px;
+            }
+        }
+            
+        
